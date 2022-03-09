@@ -1,0 +1,6 @@
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\bin\RichControls.dll.config
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\bin\RichControls.dll
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\bin\RichControls.pdb
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\obj\Debug\RichControls.csprojResolveAssemblyReference.cache
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\obj\Debug\RichControls.dll
+E:\collegedata\mt 2021-22\Apps\RichControls\RichControls\obj\Debug\RichControls.pdb
